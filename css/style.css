@@ -1,0 +1,14 @@
+#foodlist {
+  text-align: center;
+  list-style: none;
+  color: #fbfff9;
+  background-color: grey;
+  font-size: 35px;
+  padding: 10px;
+}
+#foodlist ul {
+  list-style: none;
+}
+#foodlist ul li {
+  display: inline;
+}
